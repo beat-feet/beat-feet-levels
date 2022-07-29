@@ -1,0 +1,144 @@
+{
+  "levels": [
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.go-go-faster-faster",
+      "label": "Go Go Faster Faster",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_06_go_go_faster_faster.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_06_go_go_faster_faster.json",
+      "unlockRequirements": {
+        "type": "unlocked"
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.lets-rest",
+      "label": "Let's Rest",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_07_lets_rest.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_07_lets_rest.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 6
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.wherever-aliens",
+      "label": "Wherever Aliens!!!",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_12_wherever_aliens.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_12_wherever_aliens.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 12
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.where-am-i",
+      "label": "Where Am I?",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_11_where_am_i.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_11_where_am_i.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 18
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.rescued",
+      "label": "Rescued",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_08_rescued.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_08_rescued.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 24
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.ship",
+      "label": "Ship",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_03_ship.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_03_ship.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 30
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.go-go-go",
+      "label": "Go Go Go!",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_05_go_go_go.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_05_go_go_go.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 36
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.tutorial",
+      "label": "Tutorial",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_01_tutorial.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_01_tutorial.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 42
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.ship_under_attack",
+      "label": "Ship Under Attack",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_04_ship_under_attack.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_04_ship_under_attack.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 48
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.metallius",
+      "label": "Metallius",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_09_metallius.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_09_metallius.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 54
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.go-go-metallius",
+      "label": "Go Go Metallius",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_10_go_go_metallius.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_10_go_go_metallius.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 60
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.more-aliens",
+      "label": "More Aliens!",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_13_more_aliens.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_13_more_aliens.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 66
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.splash",
+      "label": "Splash",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_02_splash.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_02_splash.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 72
+      }
+    },
+    {
+      "id": "com.serwylo.beatfeet.spacejacked.super-super",
+      "label": "Super Super",
+      "mp3Url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_15_super_super.mp3",
+      "dataUrl": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/spacejacked_15_super_super.json",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 78
+      }
+    }
+  ]
+}
+

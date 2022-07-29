@@ -1,0 +1,13 @@
+{
+  "worlds": [
+    {
+      "url": "https://beat-feet.github.io/beat-feet-levels/worlds/spacejacked/world.json",
+      "name": "Spacejacked",
+      "id": "com.serwylo.beatfeet.spacejacked",
+      "unlockRequirements": {
+        "type": "totalAchievements",
+        "numRequired": 50
+      }
+    }
+  ]
+}
